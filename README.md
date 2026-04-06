@@ -5,9 +5,13 @@ For this assignment, I followed the instructions to install Cursor, add the requ
 **Tools Tried / Used**
 
 1.**Cursor** (installation attempted but not supported on my mac system since it is 10.15)
+
 2.**Cursor** (web version)
+
 3.**Claude Code** Extension (researched on how to use it in web version)
+
 4.**Codex** Extension (researched on how to use it in web version)
+
 5.**GitHub** (web version)
 
 **Steps Followed**
