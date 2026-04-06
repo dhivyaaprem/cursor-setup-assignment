@@ -6,13 +6,13 @@ For this assignment, I followed the instructions to install Cursor, add the requ
 
 1.**Cursor** (installation attempted but not supported on my mac system since it is 10.15)
 2.**Cursor** (web version)
-2.**Claude Code** Extension (researched on how to use it in web version)
-3.**Codex** Extension (researched on how to use it in web version)
-4.**GitHub** (web version)
+3.**Claude Code** Extension (researched on how to use it in web version)
+4.**Codex** Extension (researched on how to use it in web version)
+5.**GitHub** (web version)
 
 **Steps Followed**
 
-1. I attempted to install **Cursor** on my desktop but faced compatibility issues on my Mac, as my system is an older version.
+1. I attempted to install **Cursor** on my desktop but faced compatibility issues on my Mac system.
 2. Then I started exploring **Cursor** features online.
 3. I learnt about Claude Code and Codex extensions and their purpose.
 4. I created a GitHub account and connected using my mailid.
