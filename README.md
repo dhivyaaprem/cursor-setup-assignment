@@ -30,9 +30,10 @@ For this assignment, I followed the instructions to install Cursor, add the requ
 
 **How did I handle it?**
 
-1. Instead of dropping the task, I continued using GitHub in the browser and completed the required steps as much as possible.
+1. So instead of stopping there, I just continued using GitHub in the browser and tried to complete whatever I could.
 2. I also spent time understanding the purpose of Cursor, Claude Code, and Codex so I still get the idea behind the setup.
 
 **Final note**
 
 Even though I couldn’t fully install the tools, I made sure to complete the assignment using an alternative approach and document everything clearly.
+Overall, this was a good learning experience, especially figuring out how to handle things when tools don’t work as expected.
